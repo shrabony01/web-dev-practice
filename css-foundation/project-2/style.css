@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(187, 213, 214);
+}
+h1{
+    color: rgb(165, 98, 98);
+    text-align: center;
+}
+img{
+    border: 10px solid brown;
+    margin: 60px;
+}
+h2{
+    color:brown;
+}
+#description{
+    border: 10px solid black;
+    padding: 20px;
+}
+.ingredients{
+    background-color:rgb(228, 202, 184) ;
+    padding: 20px;
+}
+.ingredients li{
+    color: brown;
+}
+a{
+    color: brown;
+    text-decoration: none;  
+}
+
+.more-recipes ul{
+    list-style-type: none;
+}
+p .h1 .h2{
+    font-family: 'Times New Roman', Times, serif;
+}
